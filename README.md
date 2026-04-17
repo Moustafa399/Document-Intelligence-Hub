@@ -9,6 +9,15 @@
 
 ---
 
+## 🖼️ Application Screenshots
+
+<div align="center">
+  <img src="imgs%20production/knowledge1.png" alt="Screenshot 1" width="45%" />
+  <img src="imgs%20production/knowledge2.png" alt="Screenshot 2" width="45%" />
+</div>
+
+---
+
 ## ✨ Key Features
 
 - **Multi-Format Support**: Ingest PDF, Word (`.docx`), Excel (`.xlsx`), CSV, PowerPoint (`.pptx`), and Images (`.png`, `.jpg`).
