@@ -4,6 +4,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistral)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4081?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 **Document Intelligence Hub** is a powerful Multi-Modal Retrieval-Augmented Generation (RAG) pipeline and application. It allows you to upload various types of documents, automatically extracts text and data (including OCR for images and scanned PDFs in both **English and Arabic**), and provides an interactive AI chat interface to query your documents instantly.
 
